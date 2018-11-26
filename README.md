@@ -14,3 +14,5 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Volume up](icons/volume-up.svg)
     -   [Volume down](icons/volume-down.svg)
     -   [Music](icons/music.svg)
+-   Weather
+    -   [Tornado](icons/tornado.svg)
