@@ -16,3 +16,5 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Music](icons/music.svg)
 -   Weather
     -   [Tornado](icons/tornado.svg)
+    -   [TStorm](icons/tstorm.svg) (thunder storm)
+    -   [TShower](icons/tshower.svg) (thunder shower)
