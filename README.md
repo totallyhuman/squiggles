@@ -13,3 +13,4 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   Skip
     -   Volume up
     -   Volume down
+    -   Music
