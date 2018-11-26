@@ -7,10 +7,10 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
 ## Icons
 
 -   Media
-    -   Play
-    -   Pause
-    -   Rewind
-    -   Skip
-    -   Volume up
-    -   Volume down
-    -   Music
+    -   [Play](play.svg)
+    -   [Pause](pause.svg)
+    -   [Rewind](rewind.svg)
+    -   [Skip](skip.svg)
+    -   [Volume up](volume up.svg)
+    -   [Volume down](volume down.svg)
+    -   [Music](music.svg)
