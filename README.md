@@ -11,3 +11,5 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   Pause
     -   Rewind
     -   Skip
+    -   Volume up
+    -   Volume down
