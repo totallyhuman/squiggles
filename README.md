@@ -9,3 +9,5 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
 -   Media
     -   Play
     -   Pause
+    -   Rewind
+    -   Skip
