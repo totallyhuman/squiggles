@@ -20,3 +20,6 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [TShower](icons/tshower.svg) (thunder shower)
     -   [Shower](icons/shower.svg)
     -   [Rain](icons/rain.svg)
+    -   [Sleet](icons/sleet.svg)
+    -   [LSnow](icons/lsnow.svg) (light snow)
+    -   [Snow][icons/snow.svg]
