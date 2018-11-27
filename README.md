@@ -23,3 +23,4 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Sleet](icons/sleet.svg)
     -   [LSnow](icons/lsnow.svg) (light snow)
     -   [Snow][icons/snow.svg]
+    -   [Hail][icons/hail.svg]
