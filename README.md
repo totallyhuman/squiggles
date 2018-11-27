@@ -6,6 +6,10 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
 
 ## Icons
 
+-   General
+    -   [Unknown](icons/unknown.svg)
+    -   Arrow [up](icons/arrow-up.svg), [right](icons/arrow-right.svg), [down](icons/arrow-down.svg), [left](icons/arrow-left.svg)
+    -   [Close](icons/close.svg)
 -   Media
     -   [Play](icons/play.svg)
     -   [Pause](icons/pause.svg)
@@ -36,7 +40,7 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Wind speed](icons/wind-speed.svg)
 -   Network
     -   WiFi [0](icons/wifi-0.svg), [1](icons/wifi-1.svg), [2](icons/wifi-2.svg), [3](icons/wifi-3.svg), [4](icons/wifi-4.svg)
-    -   cell [0](icons/cell-0.svg), [1](icons/cell-1.svg), [2](icons/cell-2.svg), [3](icons/cell-3.svg), [4](icons/cell-4.svg)
+    -   Cell [0](icons/cell-0.svg), [1](icons/cell-1.svg), [2](icons/cell-2.svg), [3](icons/cell-3.svg), [4](icons/cell-4.svg)
 -   Device
     -   Battery [0](icons/battery-0.svg), [20](icons/battery-20.svg), [40](icons/battery-40.svg), [60](icons/battery-60.svg), [80](icons/battery-80.svg), [100](icons/battery-100.svg)
     -   Battery charging [0](icons/battery-charging-0.svg), [20](icons/battery-charging-20.svg), [40](icons/battery-charging-40.svg), [60](icons/battery-charging-60.svg), [80](icons/battery-charging-80.svg), [100](icons/battery-charging-100.svg)
