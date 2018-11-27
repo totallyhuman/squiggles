@@ -22,5 +22,6 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Rain](icons/rain.svg)
     -   [Sleet](icons/sleet.svg)
     -   [LSnow](icons/lsnow.svg) (light snow)
-    -   [Snow][icons/snow.svg]
-    -   [Hail][icons/hail.svg]
+    -   [Snow](icons/snow.svg)
+    -   [Hail](icons/hail.svg)
+    -   [Fog](icons/hail.svg)
