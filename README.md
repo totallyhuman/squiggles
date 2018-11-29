@@ -22,6 +22,8 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Volume up](icons/volume-up.svg)
     -   [Volume down](icons/volume-down.svg)
     -   [Music](icons/music.svg)
+    -   [Movie](icons/movie.svg)
+    -   [Television](icons/television.svg)
 -   Weather
     -   [Tornado](icons/tornado.svg)
     -   [TStorm](icons/tstorm.svg) (thunder storm)
