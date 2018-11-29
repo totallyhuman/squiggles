@@ -12,6 +12,7 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Plus](icons/plus.svg)
     -   [Minus](icons/minus.svg)
     -   [Menu](icons/menu.svg)
+    -   [Check](icons/check.svg)
     -   [Close](icons/close.svg)
 -   Media
     -   [Play](icons/play.svg)
