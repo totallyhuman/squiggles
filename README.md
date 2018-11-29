@@ -9,6 +9,7 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
 -   General
     -   [Unknown](icons/unknown.svg)
     -   Arrow [up](icons/arrow-up.svg), [right](icons/arrow-right.svg), [down](icons/arrow-down.svg), [left](icons/arrow-left.svg)
+    -   [Menu](icons/menu.svg)
     -   [Close](icons/close.svg)
 -   Media
     -   [Play](icons/play.svg)
