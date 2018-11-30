@@ -46,8 +46,8 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Temperature](icons/temperature.svg)
     -   [Wind speed](icons/wind-speed.svg)
 -   Connectivity
-    -   WiFi [0](icons/wifi-0.svg), [1](icons/wifi-1.svg), [2](icons/wifi-2.svg), [3](icons/wifi-3.svg), [4](icons/wifi-4.svg)
-    -   Cell [0](icons/cell-0.svg), [1](icons/cell-1.svg), [2](icons/cell-2.svg), [3](icons/cell-3.svg), [4](icons/cell-4.svg)
+    -   WiFi [off](icons/wifi-off.svg), [0](icons/wifi-0.svg), [1](icons/wifi-1.svg), [2](icons/wifi-2.svg), [3](icons/wifi-3.svg), [4](icons/wifi-4.svg)
+    -   Cell [off](icons/cell-off.svg), [0](icons/cell-0.svg), [1](icons/cell-1.svg), [2](icons/cell-2.svg), [3](icons/cell-3.svg), [4](icons/cell-4.svg)
     -   [Bluetooth](icons/bluetooth.svg)
 -   Device
     -   Battery [0](icons/battery-0.svg), [20](icons/battery-20.svg), [40](icons/battery-40.svg), [60](icons/battery-60.svg), [80](icons/battery-80.svg), [100](icons/battery-100.svg)
