@@ -1,5 +1,7 @@
 # Squiggles
 
+![Banner](banner.png)
+
 A set of 75+ icons, featuring rounded joins and ends.
 
 Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) for a .zip or .ttf and .json of the latest version.
