@@ -19,6 +19,7 @@ Head over to [the Releases](https://github.com/totallyhuman/squiggles/releases) 
     -   [Menu](icons/menu.svg)
     -   [Check](icons/check.svg)
     -   [Close](icons/close.svg)
+    -   [Calendar](icons/calendar.svg)
 -   Media
     -   [Play](icons/play.svg)
     -   [Pause](icons/pause.svg)
